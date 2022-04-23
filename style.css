@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(202, 248, 202);
+    text-align: center;
+}
+a {
+    background-color: rgb(255, 255, 255);
+}
+div { border-radius: 10px; }
